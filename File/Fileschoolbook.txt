@@ -1,0 +1,8 @@
+
+Ma sach: 01
+Ten sach: java
+Nha xuat ban: sgd
+Nam xuat ban: 2001
+So trang: 30
+Tinh trang: new
+So luong muon: 50

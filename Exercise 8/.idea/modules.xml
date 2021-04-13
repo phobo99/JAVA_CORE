@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EmployeeManager/EmployeeManager.iml" filepath="$PROJECT_DIR$/EmployeeManager/EmployeeManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise 8.iml" filepath="$PROJECT_DIR$/.idea/Exercise 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManager/LibraryManager.iml" filepath="$PROJECT_DIR$/LibraryManager/LibraryManager.iml" />
+    </modules>
+  </component>
+</project>
